@@ -20,6 +20,7 @@ date_default_timezone_set('America/Santiago');
  *
  */
 	define('ENVIRONMENT', 'production');
+
 /*
  *---------------------------------------------------------------
  * ERROR REPORTING
