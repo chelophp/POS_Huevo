@@ -1,0 +1,29 @@
+
+body {
+  background-image: none;
+  background-color: #E5E2DD;
+  
+}
+
+#loginbox {
+    height:400px;
+    width: 400px;
+}
+
+#loginbox hr{
+	margin: 10px;
+	border-top:1px solid #e2e2e2;
+}
+
+.alert {
+    margin-top: 20px;
+    width: 400px;
+}
+@media (max-width: 422px){
+  .msg-demo{
+    width: 100%;
+    /*display: none !important;*/
+  }
+}
+
+
